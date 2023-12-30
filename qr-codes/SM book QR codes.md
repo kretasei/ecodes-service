@@ -30,6 +30,15 @@ Variants<br/>
 <br/>
 Link https://www.gegeerel.mn/wp-content/uploads/2023/06/Agshin-zuur-Gegeerehiin-Tulhuur-4.pdf<br/>
 
+**Book 5**<br/>
+<img src="./book-5/book-5-qr-code.png" alt="Book 1 QR image" width="180"/><br/>
+Variants<br/>
+<img src="./book-5/book-5-qr-code-green.png" alt="Book 5 QR image green" width="180"/>
+<img src="./book-5/book-5-qr-code-red.png" alt="Book 5 QR image red" width="180"/>
+<img src="./book-5/book-5-qr-code-blue.png" alt="Book 5 QR image blue" width="180"/>
+<img src="./book-5/book-5-qr-code-orange.png" alt="Book 5 QR image orange" width="180"/>
+<br/>
+Link https://www.gegeerel.mn/wp-content/uploads/2023/06/Agshin-zuur-Gegeerehiin-Tulhuur-4.pdf<br/>
 
 ## Useful links
 QR creator
